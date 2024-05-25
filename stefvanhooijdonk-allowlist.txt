@@ -1,0 +1,5 @@
+@@||graph.facebook.com^$important
+@@||web.facebook.com^$important
+@@||graph-fallback.facebook.com^$important
+# e.g. for essent app
+@@||siteintercept.qualtrics.com^$important
