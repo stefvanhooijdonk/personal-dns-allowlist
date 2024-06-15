@@ -3,3 +3,4 @@
 @@||graph-fallback.facebook.com^$important
 # e.g. for essent app
 @@||siteintercept.qualtrics.com^$important
+@@||o427061.ingest.sentry.io^$important
