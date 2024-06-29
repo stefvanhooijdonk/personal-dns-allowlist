@@ -1,6 +1,7 @@
 @@||graph.facebook.com^$important
 @@||web.facebook.com^$important
 @@||graph-fallback.facebook.com^$important
+@@||nzbplanet.net^$important
 # e.g. for essent app
 @@||siteintercept.qualtrics.com^$important
 @@||o427061.ingest.sentry.io^$important
